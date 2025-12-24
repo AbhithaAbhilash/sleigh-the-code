@@ -21,4 +21,5 @@ It draws a Christmas tree with ornaments, garlands, gifts and a sleigh.
 
 clone the repo
 git clone https://github.com/AbhithaAbhilash/sleigh-the-code.git
+
 cd sleigh-the-code
